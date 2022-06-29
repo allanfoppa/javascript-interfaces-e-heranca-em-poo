@@ -55,3 +55,11 @@ method() {
 }
 
 ```
+
+## ABSTRATA
+
+Ela serve apenas para ser herdada e não instanciada.
+
+## POLIFORMISMO
+
+Objetos de classes diferentes sendo tratados da mesma maneira
